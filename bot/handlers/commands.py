@@ -1,4 +1,4 @@
-from aiogram import Bot, Router, F
+from aiogram import Router, F
 from aiogram.types import Message, InlineKeyboardButton
 from aiogram.filters import Command, CommandStart
 from aiogram.utils.keyboard import InlineKeyboardBuilder
